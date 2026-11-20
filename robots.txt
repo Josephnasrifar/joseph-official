@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josephnasrifar.github.io/joseph-official/sitemap.xml

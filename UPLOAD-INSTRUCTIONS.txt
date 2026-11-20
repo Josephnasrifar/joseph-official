@@ -1,0 +1,16 @@
+JOSEPH OFFICIAL WEBSITE - REPLACEMENT PACKAGE
+
+IMPORTANT: Do not upload the ZIP itself to GitHub Pages.
+1. Unzip JOSEPH-Official-Website.zip.
+2. Open https://github.com/Josephnasrifar/joseph-official
+3. Click Add file > Upload files.
+4. Drag the THREE files from inside the unzipped folder (index.html, sitemap.xml, robots.txt) into the GitHub upload page. Do not drag the enclosing folder.
+5. GitHub should show index.html and sitemap.xml as replacements. Scroll down and click Commit changes.
+6. Wait a few minutes, then visit https://josephnasrifar.github.io/joseph-official/
+7. Hard refresh (Cmd+Shift+R) if you see the old page.
+
+Leave your existing google verification HTML file in the repository. Do not delete it.
+This version deliberately does not depend on missing photo assets; it uses CSS-based visual panels, so the design loads without broken image links.
+
+OPTIONAL: To replace graphic placeholders with real artwork later, supply the actual cover image files.
+SEO: The homepage already has title, description, canonical URL, social metadata, and MusicGroup structured data. Google ranking is not guaranteed and can take time.
